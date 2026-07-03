@@ -1,6 +1,6 @@
-# Zoom Clone
+# Video Conferencing Application
 
-A modern full-stack video conferencing web application inspired by Zoom.
+A modern full-stack video conferencing web application that enables users to connect, communicate, and collaborate through real-time video meetings.
 
 ## Features
 
